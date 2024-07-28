@@ -4,7 +4,7 @@ Register Airdrop : https://t.me/PoPPtothemoon_bot/moon?startapp=1382787147
 
 # How To Run
 ```
-https://github.com/AirdropFamilyIDN-V2-0/To-The-Moon.git
+git clone https://github.com/AirdropFamilyIDN-V2-0/To-The-Moon.git
 ```
 ```
 cd To-The-Moon
@@ -20,5 +20,5 @@ python bot.py
 ![image](https://github.com/user-attachments/assets/f7e5b1dd-5eb6-49a9-8ba0-2fa9ca9447f0) 
 
 
-Join Komunitas Airdrop 
+# Join Komunitas Airdrop 
 t.me/AirdropFamilyIDN
